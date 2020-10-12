@@ -1,2 +1,2 @@
 # go-nodejs-aes
-Examples code, may need improvement.
+Example codes, may need improvement.
